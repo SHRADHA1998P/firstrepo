@@ -1,0 +1,16 @@
+Name- Shradha Basavaraj Patil
+Prn No -220980720103
+
+
+
+
+Title -"ONLINE VOTING SYSTEM"
+
+Technology used -Android Platform
+
+Objectives -The traditional voting method can be changed to a newer and effective approach termed as mobile voting. 
+
+Future Scope - it is one of the greatest advantage for person who go outside the coutry they can vote on online by software.
+
+Referance -1)Ganaraj K ,"Advanced E-voting Application Using Android Platform" IJCAX Vol.4,No1/2,April 2017
+           2)Chetan Sontakke,Swapnil Payghum,Shivkumar Raut "ONLINE VOTING SYSTEM VIA MOBILE"IJESC Volume 7 Issue xxxx xxxx 2017 IJESC
